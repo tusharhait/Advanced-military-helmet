@@ -1,1 +1,5 @@
 # Advanced-military-helmet
+Team name: The Bong Group
+Team members: Mr.Sandeep Jalui, Mr.Tushar Hait
+Table number: HALL1/B/18
+Abstract:   Our proposed project prototype is attempting to provide a helping aid to the Indian military to strengthen their Defences and Strategic attack on a whole new level. During the border conditions, harsh weather conditions and long range attacks our soldiers lose their insight so our main aim here is to provide a modified vision to the soldiers. The proposed helmet will contain a head mounted display on which we will beam information such as calculating distance from an enemy/obstacle, motion detection based on radar technology or to help out with your position by displaying GPS co-ordinate to the user if he is lost. The helmet will have live video transmission between the user and the central system. The most important aspect of this is helmet will be built in such a way that it doesn’t provide hindrance to the soldier in close combat operations. There’s a provision to charge the helmet with the help of a power supply, but in our case it will be done by portable charger.
